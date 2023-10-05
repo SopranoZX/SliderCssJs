@@ -14,7 +14,7 @@ body{
 }
 @font-face {
   font-family: mongoose;
-  src: url('../fonts/Fontspring-DEMO-mongoose-black.otf');
+  src: url('.../fonts/Fontspring-DEMO-mongoose-black.otf'); 
 }
 
 /*    Styles for title        */
